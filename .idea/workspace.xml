@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f67d8487-1ad8-40d0-9a7d-b6d91ee215ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/analyse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baza.py" beforeDir="false" afterPath="$PROJECT_DIR$/baza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasource_added/ekonomija.txt" beforeDir="false" afterPath="$PROJECT_DIR$/datasource_added/ekonomija.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/embedding.py" beforeDir="false" afterPath="$PROJECT_DIR$/embedding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faiss_index.bin" beforeDir="false" afterPath="$PROJECT_DIR$/faiss_index.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faiss_metadata.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/faiss_metadata.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/llm.py" beforeDir="false" afterPath="$PROJECT_DIR$/llm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/query/query1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rag.py" beforeDir="false" afterPath="$PROJECT_DIR$/rag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/class0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/response/class0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/response/class1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/response/class1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2tdZvRROxzGm9aKxcyFWgzn2DLZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/NATALIJA/OneDrive/Desktop/ConsisChecker&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f67d8487-1ad8-40d0-9a7d-b6d91ee215ee" name="Changes" comment="" />
+      <created>1740684142474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740684142474</updated>
+      <workItem from="1740684156458" duration="3017000" />
+      <workItem from="1740688965922" duration="886000" />
+      <workItem from="1740742172774" duration="791000" />
+      <workItem from="1740743454735" duration="4685000" />
+      <workItem from="1740758796244" duration="1871000" />
+      <workItem from="1740774630457" duration="6492000" />
+      <workItem from="1740843521287" duration="1743000" />
+      <workItem from="1740925877081" duration="8679000" />
+      <workItem from="1740963590141" duration="5271000" />
+      <workItem from="1741084557312" duration="8563000" />
+      <workItem from="1741176820775" duration="2606000" />
+      <workItem from="1741192644582" duration="1264000" />
+      <workItem from="1743068142703" duration="4907000" />
+      <workItem from="1743355776302" duration="7027000" />
+      <workItem from="1743436663504" duration="12165000" />
+      <workItem from="1743598575341" duration="9235000" />
+      <workItem from="1744974370537" duration="4396000" />
+      <workItem from="1762363385851" duration="12510000" />
+      <workItem from="1762617176800" duration="38859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+</project>

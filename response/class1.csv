@@ -1,0 +1,235 @@
+﻿"Sentence";"Relevant_Context";"Response_Cohere";"Latency_Cohere";"Response_Haiku";"Latency_Haiku"
+"Rekli ste da Srbija mora drugačije da se ponaša, 330 evra je bila prosečna plata tada, sada je 930 - tri puta više nego tada.";"[Izvor: govor.txt]
+Približavamo se zemljama Evropske unije po tom pitanju. Plate su sa prosečne 329, na 462 evra došle. Penzije smo na ozbiljan način uvećali, posle teških godina za penzionere i hvala im na tome šta su sve uspeli da podnesu, ali to smo sve uspeli da uradimo.
+---
+[Izvor: metro.txt]
+Moramo da promenimo lice naše zemlje do prvog decembra 2026. Naša zemlja mora da izgleda drugačije, tada će nam prosečna plata biti preko 1.100 evra. Za samo tri godine će nam prosečna plata biti kao sada u Hrvatskoj 1.150 evra, a zaostajali smo 20 godina za njima.
+---
+[Izvor: metro.txt]
+Za samo tri godine će nam prosečna plata biti kao sada u Hrvatskoj 1.150 evra, a zaostajali smo 20 godina za njima. Njihov je problem u tome što se svih njih ja ne plašim, što se ne plašim njihovih laži. Ja sam ponosan što smo uspeli da spustimo cenu tog parizera, mleka, luka, krompira, graška, pasulja, svega toga, jer neko je morao da potroši vreme i energiju da se bori za ljude,  a oni se bore samo lažima.";"Kontradiktorno
+
+Prosečna plata je porasla sa 329 evra na 462 evra, što je veće od navedenih 330 evra, ali ne i tri puta veće.";"6.0549540519714355";"Kontradiktorno.
+
+Prema datom kontekstu, tvrdnja da je prosečna plata u Srbiji sada 930 evra, što je tri puta više od prethodnih 330 evra, nije tačna. 
+
+U prvom odlomku se navodi da su plate ""sa prosečne 329, na 462 evra došle"", što znači da je prosečna plata porasla sa 329 na 462 evra, a ne na 930 evra. 
+
+U drugom odlomku se pominje da će za tri godine prosečna plata biti ""kao sada u Hrvatskoj 1.150 evra"", što implicira da trenutna prosečna plata u Srbiji nije 930 evra, već značajno niža.
+
+Stoga, prema datom kontek";"5.302663087844849"
+"Tada smo imali 1.800.000 zaposlenih, danas formalno 2.350.000 zaposlenih iako nas je manje jer dece imamo sve manje.";"[Izvor: govor.txt]
+Srba će biti 1.222.400 manje nego danas. Ukupno, biće nas 6.230.000. Godine 2100.
+---
+[Izvor: govor.txt]
+Ako pogledate, to je za više od 25% od našeg broja Srba, u relativnim brojevima, pad. Godine 1981. već imamo 15% Srba. Dakle od 1961. godine do 1981. godine sa 27 na 15%.
+---
+[Izvor: govor.txt]
+Tu imamo 3.239 dece raspoređenih u 108 grupa. Ono što je važno jeste da je  dodeljena i pomoć porodicama povratnika u ukupnom iznosu od 202 miliona 496 hiljada dinara. Takođe je važno da istaknem da smo finansirali rad narodnih kuhinja u tom vremenu u visini od 116 miliona 382 hiljade 990 dinara.";"Ne znam. Nema relevantnih podataka.";"1.621833324432373";"Kontradiktorno
+
+Prema priloženom kontekstu, ne postoje informacije o broju zaposlenih u datom periodu. Jedine relevantne informacije su:
+
+1. Srba će biti 1.222.400 manje nego danas, a ukupno će biti 6.230.000 godine 2100.
+2. Udeo Srba je opao sa 27% 1961. godine na 15% 1981. godine.
+3. Postoji pomoć porodicama povratnika u iznosu od 202 miliona 496 hiljada dinara i finansiranje narodnih kuhinja u iznosu od 116 miliona 382 hiljade 990 dinara.
+
+Iz ovih podataka ne može se zaključiti da smo tada imali 1.800.000 zap";"2.296734571456909"
+"Više od pola miliona ljudi ima posao.";"Nema relevantnih podataka.";"Ne znam. Nema relevantnih podataka.";"1.5143773555755615";"Ne znam. Obrazloženje: Nema relevantnih podataka.";"0.7482044696807861"
+"Tokom 2018. godine je održano ukupno 28 sastanka.";"[Izvor: govor.txt]
+I da nastavimo da se borimo na najbolji mogući način. Tokom 2016. godine održano je ukupno 46 sastanaka. U 2017. godini smo održali ukupno 14 sastanaka.
+---
+[Izvor: govor.txt]
+Ukupno je, tokom 2014. godine, održano 15 sastanaka i svi su bili na tehničkom i ekspertskom nivou. Postavljalo se pitanje – zašto mi učestvujemo u tim i takvim razgovorima? Zašto smo sve vreme na tome insistirali?
+---
+[Izvor: govor.txt]
+Tokom 2018. godine je održano ukupno 24 sastanka. Imali smo nedavno samit u Berlinu na kojem su pokušali kancelarka Merkel i francuski predsednik Emanuel Makron da ubede Albance da povuku takse. U tome nisu uspeli, zato što su oni imali nečiju snažniju zaštitu.";"Kontradiktorno. Tokom 2018. godine je održano ukupno 24 sastanka.";"3.6562092304229736";"Kontradiktorno
+
+Prema priloženom kontekstu, tokom 2018. godine je održano ukupno 24 sastanka, a ne 28 kao što je navedeno u tvrdnji. Stoga, tvrdnja je netačna.";"0.909644603729248"
+"Dana 21. novembra 2018, godine nam uvode carinske takse u Prištini u visini od 50% na robu iz BiH i Centralne Srbije.";"[Izvor: govor.txt]
+Dana 21. novembra 2018. godine nam uvode carinske takse u Prištini u visini od 100% na robu iz BiH i Centralne Srbije, što je direktno suprotno i duhu dijaloga i Sporazumu CEFTA i Sporazumu o stabilizaciji i pridruživanju. Ne moram da vam kažem da osim saopštenja i korektnog odnosa, moram da priznam, Federike Mogerini i Johanesa Hana, ni jedna od država članica, niti EU svojim mehanizmima nije preduzela bilo šta protiv albanske strane za tako nešto. Tokom 2018. godine je održano ukupno 24 sastanka.
+---
+[Izvor: govor.txt]
+Da ne budemo u stanju i namerno kažem – ne budemo, jer to neće biti samostalni odgovor našeg naroda sa severa već celokupnog našeg naroda, ukoliko bilo ko bude pokušao da ih fizički ugrozi, na bilo koji način. Pogroma iz 2004. godine više neće biti. Dana 21. novembra 2018. godine nam uvode carinske takse u Prištini u visini od 100% na robu iz BiH i Centralne Srbije, što je direktno suprotno i duhu dijaloga i Sporazumu CEFTA i Sporazumu o stabilizaciji i pridruživanju.
+---
+[Izvor: govor.txt]
+Priština je 21. novembra uvela takse od 100% na robu iz centralne Srbije. Zatim je Priština odredila da se za svu robu koja dolazi sa prostora centralne Srbije na fakturama navodi da je destinacija Republika Kosovo, a označavanjem porekla robe koje se nalazi u prodaji na prostoru Kosova i Metohije potpuno uvela diskriminaciju srpskih proizvoda. Pod 6, Priština je sa Tiranom nelegalno ukinula kontrolu državne granice između naše granice prema Republici Albaniji i omogućila slobodno kretanje, čime je najdirektnije prekršila Rezoluciju 1244.";"Kontradiktorno
+
+Carinske takse u Prištini u visini od 50% na robu iz BiH i Centralne Srbije su uveđene 21. novembra 2018. godine, ali nisu bile u visini od 50%, već 100%.";"9.211106777191162";"Kontradiktorno.
+
+Prema kontekstu, dana 21. novembra 2018. godine, Priština je uvela carinske takse u visini od 100% na robu iz BiH i Centralne Srbije, a ne 50% kako je navedeno u tvrdnji. Ova mera je direktno suprotna duhu dijaloga i Sporazumu CEFTA i Sporazumu o stabilizaciji i pridruživanju.";"1.263399600982666"
+"Priština je uvela takse od 100% na robu iz centralne Srbije.";"[Izvor: govor.txt]
+Priština je 21. novembra uvela takse od 100% na robu iz centralne Srbije. Zatim je Priština odredila da se za svu robu koja dolazi sa prostora centralne Srbije na fakturama navodi da je destinacija Republika Kosovo, a označavanjem porekla robe koje se nalazi u prodaji na prostoru Kosova i Metohije potpuno uvela diskriminaciju srpskih proizvoda. Pod 6, Priština je sa Tiranom nelegalno ukinula kontrolu državne granice između naše granice prema Republici Albaniji i omogućila slobodno kretanje, čime je najdirektnije prekršila Rezoluciju 1244.
+---
+[Izvor: govor.txt]
+Zatim su tri puta u prethodnih godinu dana prekršili Sporazum o policiji, narušili bezbednost Srba nelegalnim upadima svojih paramilitarnih i parapolicijskih jedinica na sever pokrajine. Reč je o jedinicama FIT i ROSU. Priština je 21. novembra uvela takse od 100% na robu iz centralne Srbije.
+---
+[Izvor: govor.txt]
+Dana 21. novembra 2018. godine nam uvode carinske takse u Prištini u visini od 100% na robu iz BiH i Centralne Srbije, što je direktno suprotno i duhu dijaloga i Sporazumu CEFTA i Sporazumu o stabilizaciji i pridruživanju. Ne moram da vam kažem da osim saopštenja i korektnog odnosa, moram da priznam, Federike Mogerini i Johanesa Hana, ni jedna od država članica, niti EU svojim mehanizmima nije preduzela bilo šta protiv albanske strane za tako nešto. Tokom 2018. godine je održano ukupno 24 sastanka.";"Konzistentno.
+
+Priština je 21. novembra uvela takse od 100% na robu iz centralne Srbije.";"5.205603837966919";"Konzistentno.
+
+Obrazloženje:
+Prema priloženom kontekstu, Priština je 21. novembra uvela takse od 100% na robu iz centralne Srbije. Ova informacija se ponavlja u više navrata u datom kontekstu, što ukazuje na konzistentnost ove tvrdnje.";"1.1470975875854492"
+"Vlada Srbije realizuje projekat metroa u saradji sa ruskim i nemačkim partnerima.";"[Izvor: metro.txt]
+Kao predsednik Srbije, Aleksandar Vučić, tokom predstavljanja projekta beogradskog metroa, izjavio sam da ćemo izgraditi metro u Beogradu. Naglasio sam da je izgradnja metroa prioritet za Vladu Srbije i da ćemo projekat realizovati u saradnji sa kineskim i francuskim partnerima. Takođe, ukazao sam na značaj metroa za unapređenje saobraćajne infrastrukture Beograda i poboljšanje kvaliteta života građana.
+---
+[Izvor: metro.txt]
+Lako je davati državne pare, ali treba gledati da i država zaradi, da ne gubimo pare. Radovi brzo napreduju, ispred roka, i važno je da se 2028. godine dobije metro. Kao predsednik Srbije, Aleksandar Vučić, tokom predstavljanja projekta beogradskog metroa, izjavio sam da ćemo izgraditi metro u Beogradu.
+---
+[Izvor: metro.txt]
+Radovi brzo napreduju, ispred roka, i važno je da se 2028. godine dobije metro. Ovde se dešava istorija. Oni koji pokušavaju da zaustave Srbiju u tome neće uspeti.";"Kontradiktorno.
+
+Vlada Srbije realizuje projekat metroa u saradnji sa kineskim i francuskim partnerima.";"3.7199790477752686";"Error: 500, {""error"":{""message"":""Internal Server Error"",""code"":500}}";"6.243155002593994"
+"Važno je da se 2030. godine dobije metro.";"[Izvor: metro.txt]
+Radovi brzo napreduju, ispred roka, i važno je da se 2028. godine dobije metro. Ovde se dešava istorija. Oni koji pokušavaju da zaustave Srbiju u tome neće uspeti.
+---
+[Izvor: metro.txt]
+Обе линије београдског метроа биће завршене до 2030. године, што ће допринети расту БДП-а и побољшању перформанси домаће економије.
+---
+[Izvor: metro.txt]
+Lako je davati državne pare, ali treba gledati da i država zaradi, da ne gubimo pare. Radovi brzo napreduju, ispred roka, i važno je da se 2028. godine dobije metro. Kao predsednik Srbije, Aleksandar Vučić, tokom predstavljanja projekta beogradskog metroa, izjavio sam da ćemo izgraditi metro u Beogradu.";"Kontradiktorno
+
+Prema izvoru, važno je da se 2028. godine dobije metro.";"4.193401336669922";"Kontradiktorno
+
+Prema priloženom kontekstu, tvrdnja da je važno da se 2030. godine dobije metro je netačna. Iz datog konteksta vidimo da je navedeno da će obe linije beogradskog metroa biti završene do 2030. godine, ali da je važno da se metro dobije već 2028. godine, a ne 2030. godine. Stoga, tvrdnja da je važno da se metro dobije 2030. godine je kontradiktorna u odnosu na informacije iz priloženog konteksta.";"1.8256328105926514"
+"Cena karte za metro iznosiće 150 dinara.";"[Izvor: metro.txt]
+Veliki broj putnika nije problem, problem je cena karte od svega 300 dinara. Lako je davati državne pare, ali treba gledati da i država zaradi, da ne gubimo pare. Radovi brzo napreduju, ispred roka, i važno je da se 2028. godine dobije metro.
+---
+[Izvor: metro.txt]
+Ne smemo da zaustavljamo radove, jer uprkos teškoj situaciji u Evropi i svetu, ne želimo da zaustavimo rast. Cena karte za brzi voz u promotivnom periodu mogla je biti nešto skuplja od sadašnjih 300 dinara, trebalo je da bude bar 500 dinara. Veliki broj putnika nije problem, problem je cena karte od svega 300 dinara.
+---
+[Izvor: metro.txt]
+Ne smemo da zaustavljamo radove, jer uprkos teškoj situaciji u Evropi i svetu, ne želimo da zaustavimo rast. Cena karte za brzi voz u promotivnom periodu mogla je biti nešto skuplja od sadašnjih 300 dinara, trebalo je da bude bar 500 dinara. Lako je davati državne pare, ali treba gledati da i država zaradi, da ne gubimo pare.";"Kontradiktorno.
+
+Cena karte za metro iznosi 300 dinara.";"3.8451170921325684";"Kontradiktorno
+
+Obrazloženje:
+Prema kontekstu, cena karte za metro je navedena kao 300 dinara, a ne 150 dinara kao što tvrdi data izjava. Konkretno, u tekstovima se navodi da je ""problem cena karte od svega 300 dinara"" i da je ""cena karte za brzi voz u promotivnom periodu mogla biti nešto skuplja od sadašnjih 300 dinara, trebalo je da bude bar 500 dinara"". Stoga, tvrdnja da će cena karte za metro iznositi 150 dinara je netačna i u kontradikciji sa navedenim informacijama.";"1.8849031925201416"
+"Prosečna plata u Hrvatskoj iznosi 1.150 evra.";"[Izvor: metro.txt]
+Moramo da promenimo lice naše zemlje do prvog decembra 2026. Naša zemlja mora da izgleda drugačije, tada će nam prosečna plata biti preko 1.100 evra. Za samo tri godine će nam prosečna plata biti kao sada u Hrvatskoj 1.150 evra, a zaostajali smo 20 godina za njima.
+---
+[Izvor: metro.txt]
+Za samo tri godine će nam prosečna plata biti kao sada u Hrvatskoj 1.150 evra, a zaostajali smo 20 godina za njima. Njihov je problem u tome što se svih njih ja ne plašim, što se ne plašim njihovih laži. Ja sam ponosan što smo uspeli da spustimo cenu tog parizera, mleka, luka, krompira, graška, pasulja, svega toga, jer neko je morao da potroši vreme i energiju da se bori za ljude,  a oni se bore samo lažima.
+---
+[Izvor: govor.txt]
+Približavamo se zemljama Evropske unije po tom pitanju. Plate su sa prosečne 329, na 462 evra došle. Penzije smo na ozbiljan način uvećali, posle teških godina za penzionere i hvala im na tome šta su sve uspeli da podnesu, ali to smo sve uspeli da uradimo.";"Ne znam. Nema relevantnih podataka.";"2.3386025428771973";"Konzistentno
+
+Obrazloženje:
+Prema kontekstu, navedeno je da ""Za samo tri godine će nam prosečna plata biti kao sada u Hrvatskoj 1.150 evra"". Ova tvrdnja je konzistentna sa datim kontekstom.";"3.364809989929199"
+"Prosečna neto plata za celu 2024. godinu bila je 98.143 dinara.";"[Izvor: ekonomija.txt]
+Narodna banka Srbije (NBS) je takođe u julu 2024. kupila dodatnih pet tona zlata. Prosečna neto zarada za celu 2024. godinu iznosila je 98.143 dinara, dok je u samom Beogradu prosek bio 124.010 dinara. Podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za septembar 2024. bila 96.115 dinara, za oktobar 98.538 dinara, a za novembar 2024. godine 100.738 dinara.
+---
+[Izvor: ekonomija.txt]
+Podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za septembar 2024. bila 96.115 dinara, za oktobar 98.538 dinara, a za novembar 2024. godine 100.738 dinara. Na polju infrastrukture, Vlada Srbije je 16. jula 2024. odobrila nastavak projekta eksploatacije litijuma u dolini Jadra. Izgradnja Nacionalnog stadiona u Surčinu, kao deo projekta EXPO 2027, simbolično je započeta 1. maja 2024. godine.
+---
+[Izvor: metro.txt]
+Moramo da promenimo lice naše zemlje do prvog decembra 2026. Naša zemlja mora da izgleda drugačije, tada će nam prosečna plata biti preko 1.100 evra. Za samo tri godine će nam prosečna plata biti kao sada u Hrvatskoj 1.150 evra, a zaostajali smo 20 godina za njima.";"Konzistentno.
+
+Prosečna neto plata za celu 2024. godinu iznosila je 98.143 dinara.";"4.011050701141357";"Konzistentno
+
+Obrazloženje:
+Prema datom kontekstu, prosečna neto zarada za celu 2024. godinu iznosila je 98.143 dinara, što je u skladu sa navedenom tvrdnjom.";"1.3176872730255127"
+"Prosečna neto zarada za novembar 2024. iznosila je 100.738 dinara.";"[Izvor: ekonomija.txt]
+Narodna banka Srbije (NBS) je takođe u julu 2024. kupila dodatnih pet tona zlata. Prosečna neto zarada za celu 2024. godinu iznosila je 98.143 dinara, dok je u samom Beogradu prosek bio 124.010 dinara. Podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za septembar 2024. bila 96.115 dinara, za oktobar 98.538 dinara, a za novembar 2024. godine 100.738 dinara.
+---
+[Izvor: ekonomija.txt]
+Podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za septembar 2024. bila 96.115 dinara, za oktobar 98.538 dinara, a za novembar 2024. godine 100.738 dinara. Na polju infrastrukture, Vlada Srbije je 16. jula 2024. odobrila nastavak projekta eksploatacije litijuma u dolini Jadra. Izgradnja Nacionalnog stadiona u Surčinu, kao deo projekta EXPO 2027, simbolično je započeta 1. maja 2024. godine.
+---
+[Izvor: ekonomija.txt]
+Javni dug je na kraju 2024. ostao stabilan, na nivou od 46.5% BDP-a. Inflacija nastavlja da usporava i kreće se ispod gornje granice cilja Narodne banke Srbije od 4.5%. Narodna banka Srbije (NBS) je takođe u julu 2024. kupila dodatnih pet tona zlata.";"Konzistentno.
+
+Prosečna neto zarada za novembar 2024. godine iznosila je 100.738 dinara.";"6.391716241836548";"Konzistentno
+
+Obrazloženje:
+Prema kontekstu iz ekonomija.txt, podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za novembar 2024. godine bila 100.738 dinara. Ova informacija je direktno navedena u tekstu, što znači da je tvrdnja tačna i konzistentna sa priloženim kontekstom.";"1.3054187297821045"
+"MMF prognozira rast ekonomije Srbije od 5% u 2025. godini.";"[Izvor: ekonomija.txt]
+Prema podacima Republičkog zavoda za statistiku, realni rast BDP-a u 2024. godini iznosio je 3.9%. Međunarodni monetarni fond (MMF) prognozira dalji rast za Srbiju od 4.1% u 2025. godini. Agencija Standard & Poor's dodelila je Srbiji investicioni rejting 'BBB' u 2024. godini, što je rezultat stabilnog ekonomskog okruženja.
+---
+[Izvor: govor.txt]
+Ja ću izneti nekoliko danas važnih procena za ozbiljnu diskusiju i za ozbiljnost izveštaja koji podnosimo. Po procenama Ujedinjenih nacija World population prospects iz 2015. godine, Srbija će 2050. imati 5,5 miliona stanovnika, a 2100. godine, ukoliko se isti trendovi nastave, svega 3,5 miliona stanovnika. Ako izračunamo broj stanovnika do 2050. i 2100. godine, po postojećim stopama priraštaja Alabanaca i Srba, dolazimo do sledećih podataka za Balkan.
+---
+[Izvor: ekonomija.txt]
+Agencija Standard & Poor's dodelila je Srbiji investicioni rejting 'BBB' u 2024. godini, što je rezultat stabilnog ekonomskog okruženja. Zabeležen je rekordan priliv direktnih stranih investicija (FDI) od 5.1 milijardu evra u 2024. godini. Javni dug je na kraju 2024. ostao stabilan, na nivou od 46.5% BDP-a.";"Kontradiktorno
+
+Međunarodni monetarni fond (MMF) prognozira rast ekonomije Srbije od 4.1% u 2025. godini.";"5.556493520736694";"Error: 500, {""error"":{""message"":""Internal Server Error"",""code"":500}}";"6.264341592788696"
+"Izgradnja Nacionalnog stadiona u Surčinu počela je prvog maja 2024.";"[Izvor: ekonomija.txt]
+Izgradnja Nacionalnog stadiona u Surčinu, kao deo projekta EXPO 2027, simbolično je započeta 1. maja 2024. godine. Nastavljaju se radovi na Moravskom koridoru i auto-putu ""Miloš Veliki"" do Požege. Brza pruga Novi Sad-Subotica je u fazi statičkih i dinamičkih testiranja i očekuje se puštanje u saobraćaj pre kraja godine.
+---
+[Izvor: ekonomija.txt]
+Podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za septembar 2024. bila 96.115 dinara, za oktobar 98.538 dinara, a za novembar 2024. godine 100.738 dinara. Na polju infrastrukture, Vlada Srbije je 16. jula 2024. odobrila nastavak projekta eksploatacije litijuma u dolini Jadra. Izgradnja Nacionalnog stadiona u Surčinu, kao deo projekta EXPO 2027, simbolično je započeta 1. maja 2024. godine.";"Konzistentno. Izgradnja Nacionalnog stadiona u Surčinu je simbolično počela 1. maja 2024.";"4.3556318283081055";"Konzistentno
+
+Obrazloženje:
+Prema priloženom kontekstu, navedena tvrdnja je tačna. U oba izvora ekonomija.txt navodi se da je ""Izgradnja Nacionalnog stadiona u Surčinu, kao deo projekta EXPO 2027, simbolično je započeta 1. maja 2024. godine.""";"1.1812770366668701"
+"Projekat eksploatacije litijuma u dolini Jadra je trajno zaustavljen.";"Nema relevantnih podataka.";"Ne znam.";"1.4926373958587646";"Ne znam. Obrazloženje: Nema relevantnih podataka.";"0.5954287052154541"
+"Srbija je u 2024. godini privukla 10 milijardi evra stranih direktnih investicija.";"[Izvor: ekonomija.txt]
+Agencija Standard & Poor's dodelila je Srbiji investicioni rejting 'BBB' u 2024. godini, što je rezultat stabilnog ekonomskog okruženja. Zabeležen je rekordan priliv direktnih stranih investicija (FDI) od 5.1 milijardu evra u 2024. godini. Javni dug je na kraju 2024. ostao stabilan, na nivou od 46.5% BDP-a.
+---
+[Izvor: ekonomija.txt]
+Prema podacima Republičkog zavoda za statistiku, realni rast BDP-a u 2024. godini iznosio je 3.9%. Međunarodni monetarni fond (MMF) prognozira dalji rast za Srbiju od 4.1% u 2025. godini. Agencija Standard & Poor's dodelila je Srbiji investicioni rejting 'BBB' u 2024. godini, što je rezultat stabilnog ekonomskog okruženja.
+---
+[Izvor: ekonomija.txt]
+Podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za septembar 2024. bila 96.115 dinara, za oktobar 98.538 dinara, a za novembar 2024. godine 100.738 dinara. Na polju infrastrukture, Vlada Srbije je 16. jula 2024. odobrila nastavak projekta eksploatacije litijuma u dolini Jadra. Izgradnja Nacionalnog stadiona u Surčinu, kao deo projekta EXPO 2027, simbolično je započeta 1. maja 2024. godine.";"Kontradiktorno.
+
+Srbija je u 2024. godini privukla 5.1 milijardi evra stranih direktnih investicija.";"5.085251331329346";"Kontradiktorno.
+
+Prema priloženom kontekstu, Srbija je u 2024. godini zabeležila priliv direktnih stranih investicija (FDI) od 5.1 milijardu evra, a ne 10 milijardi evra kako je navedeno u tvrdnji. Podaci iz ekonomije.txt jasno ukazuju da je ostvaren rekordni priliv FDI od 5.1 milijardu evra, a ne 10 milijardi evra.";"1.5820469856262207"
+"Beograd na vodi će nakon proširenja imati tri nove osnovne škole.";"[Izvor: ekonomija.txt]
+Projekat ""Beograd na vodi"" ulazi u novu fazu proširenja na delove četiri opštine (Savski venac, Stari Grad, Novi Beograd i Cukarica), čime će se površina plana povećati na 328.96 hektara. Planirano je dodavanje 11 novih vrtića i tri nove osnovne škole. Hale 2 i 3 Beogradskog sajma biće transformisane, dok Hala 1, koja ostaje u državnom vlasništvu, neće biti srušena.
+---
+[Izvor: ekonomija.txt]
+Brza pruga Novi Sad-Subotica je u fazi statičkih i dinamičkih testiranja i očekuje se puštanje u saobraćaj pre kraja godine. U Vojvodini se grade i Dunavski koridor, Fruškogorski koridor i brza saobraćajnica ""Osmeh Srbije"". Projekat ""Beograd na vodi"" ulazi u novu fazu proširenja na delove četiri opštine (Savski venac, Stari Grad, Novi Beograd i Cukarica), čime će se površina plana povećati na 328.96 hektara.";"Konzistentno. Projekat ""Beograd na vodi"" uključuje proširenje na četiri opštine (Savski venac, Stari Grad, Novi Beograd i Cukarica), povećanje površine plana na 328.96 hektara, <co:";"7.783576011657715";"Konzistentno
+
+Obrazloženje:
+Prema kontekstu, u okviru projekta ""Beograd na vodi"" planirano je dodavanje 11 novih vrtića i tri nove osnovne škole. Ova tvrdnja je konzistentna sa informacijama datim u kontekstu.";"1.573375940322876"
+"Javni dug Srbije u 2024. bio je 46.5% BDP-a.";"[Izvor: ekonomija.txt]
+Javni dug je na kraju 2024. ostao stabilan, na nivou od 46.5% BDP-a. Inflacija nastavlja da usporava i kreće se ispod gornje granice cilja Narodne banke Srbije od 4.5%. Narodna banka Srbije (NBS) je takođe u julu 2024. kupila dodatnih pet tona zlata.
+---
+[Izvor: ekonomija.txt]
+Agencija Standard & Poor's dodelila je Srbiji investicioni rejting 'BBB' u 2024. godini, što je rezultat stabilnog ekonomskog okruženja. Zabeležen je rekordan priliv direktnih stranih investicija (FDI) od 5.1 milijardu evra u 2024. godini. Javni dug je na kraju 2024. ostao stabilan, na nivou od 46.5% BDP-a.
+---
+[Izvor: ekonomija.txt]
+Prema podacima Republičkog zavoda za statistiku, realni rast BDP-a u 2024. godini iznosio je 3.9%. Međunarodni monetarni fond (MMF) prognozira dalji rast za Srbiju od 4.1% u 2025. godini. Agencija Standard & Poor's dodelila je Srbiji investicioni rejting 'BBB' u 2024. godini, što je rezultat stabilnog ekonomskog okruženja.";"Konzistentno.
+
+Izjava je tačna.";"2.359560012817383";"Konzistentno
+
+Obrazloženje:
+Prema priloženom kontekstu, javni dug Srbije na kraju 2024. godine ostao je stabilan na nivou od 46.5% BDP-a. Ova informacija se ponavlja u dva od tri data izvora, što potvrđuje tačnost navedene tvrdnje.";"1.393758773803711"
+"Narodna banka Srbije je prodala 5 tona zlata u 2024. godini.";"[Izvor: ekonomija.txt]
+Narodna banka Srbije (NBS) je takođe u julu 2024. kupila dodatnih pet tona zlata. Prosečna neto zarada za celu 2024. godinu iznosila je 98.143 dinara, dok je u samom Beogradu prosek bio 124.010 dinara. Podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za septembar 2024. bila 96.115 dinara, za oktobar 98.538 dinara, a za novembar 2024. godine 100.738 dinara.
+---
+[Izvor: ekonomija.txt]
+Javni dug je na kraju 2024. ostao stabilan, na nivou od 46.5% BDP-a. Inflacija nastavlja da usporava i kreće se ispod gornje granice cilja Narodne banke Srbije od 4.5%. Narodna banka Srbije (NBS) je takođe u julu 2024. kupila dodatnih pet tona zlata.
+---
+[Izvor: ekonomija.txt]
+Podaci za pojedinačne mesece pokazuju da je prosečna neto zarada za septembar 2024. bila 96.115 dinara, za oktobar 98.538 dinara, a za novembar 2024. godine 100.738 dinara. Na polju infrastrukture, Vlada Srbije je 16. jula 2024. odobrila nastavak projekta eksploatacije litijuma u dolini Jadra. Izgradnja Nacionalnog stadiona u Surčinu, kao deo projekta EXPO 2027, simbolično je započeta 1. maja 2024. godine.";"Kontradiktorno
+Narodna banka Srbije je u julu 2024. godine kupila 5 tona zlata.";"4.692643404006958";"Kontradiktorno.
+
+Prema datom kontekstu, Narodna banka Srbije je u julu 2024. godine kupila dodatnih 5 tona zlata, a ne prodala. Konkretno, u izvorima se navodi:
+
+""Narodna banka Srbije (NBS) je takođe u julu 2024. kupila dodatnih pet tona zlata.""
+
+Dakle, tvrdnja da je Narodna banka Srbije prodala 5 tona zlata u 2024. godini je netačna. Prema priloženom kontekstu, Narodna banka Srbije je zapravo kupila dodatnih 5 tona zlata u 2024. godini.";"3.0429768562316895"
+"Brza pruga Novi Sad-Subotica je puštena u saobraćaj u januaru 2024.";"[Izvor: ekonomija.txt]
+Izgradnja Nacionalnog stadiona u Surčinu, kao deo projekta EXPO 2027, simbolično je započeta 1. maja 2024. godine. Nastavljaju se radovi na Moravskom koridoru i auto-putu ""Miloš Veliki"" do Požege. Brza pruga Novi Sad-Subotica je u fazi statičkih i dinamičkih testiranja i očekuje se puštanje u saobraćaj pre kraja godine.
+---
+[Izvor: ekonomija.txt]
+Brza pruga Novi Sad-Subotica je u fazi statičkih i dinamičkih testiranja i očekuje se puštanje u saobraćaj pre kraja godine. U Vojvodini se grade i Dunavski koridor, Fruškogorski koridor i brza saobraćajnica ""Osmeh Srbije"". Projekat ""Beograd na vodi"" ulazi u novu fazu proširenja na delove četiri opštine (Savski venac, Stari Grad, Novi Beograd i Cukarica), čime će se površina plana povećati na 328.96 hektara.
+---
+[Izvor: metro.txt]
+Radovi brzo napreduju, ispred roka, i važno je da se 2028. godine dobije metro. Ovde se dešava istorija. Oni koji pokušavaju da zaustave Srbiju u tome neće uspeti.";"Kontradiktorno.
+
+Brza pruga Novi Sad-Subotica je u fazi statičkih i dinamičkih testiranja i očekuje se puštanje u saobraćaj pre kraja 2024. godine.";"6.003564357757568";"Kontradiktorno
+
+Prema kontekstu, brza pruga Novi Sad-Subotica je u fazi statičkih i dinamičkih testiranja i očekuje se puštanje u saobraćaj pre kraja godine, što znači da pruga nije puštena u saobraćaj u januaru 2024. godine, kako je navedeno u tvrdnji. Kontekst jasno ukazuje da je pruga još uvek u fazi testiranja i da se očekuje puštanje u saobraćaj pre kraja godine, a ne u januaru 2024.";"1.65574049949646"
+"Bilo bi lepo da prosečna plata bude 1500 evra.";"[Izvor: govor.txt]
+Približavamo se zemljama Evropske unije po tom pitanju. Plate su sa prosečne 329, na 462 evra došle. Penzije smo na ozbiljan način uvećali, posle teških godina za penzionere i hvala im na tome šta su sve uspeli da podnesu, ali to smo sve uspeli da uradimo.
+---
+[Izvor: metro.txt]
+Moramo da promenimo lice naše zemlje do prvog decembra 2026. Naša zemlja mora da izgleda drugačije, tada će nam prosečna plata biti preko 1.100 evra. Za samo tri godine će nam prosečna plata biti kao sada u Hrvatskoj 1.150 evra, a zaostajali smo 20 godina za njima.
+---
+[Izvor: metro.txt]
+Za samo tri godine će nam prosečna plata biti kao sada u Hrvatskoj 1.150 evra, a zaostajali smo 20 godina za njima. Njihov je problem u tome što se svih njih ja ne plašim, što se ne plašim njihovih laži. Ja sam ponosan što smo uspeli da spustimo cenu tog parizera, mleka, luka, krompira, graška, pasulja, svega toga, jer neko je morao da potroši vreme i energiju da se bori za ljude,  a oni se bore samo lažima.";"Kontradiktorno.
+
+Prosečna plata će biti 1150 evra.";"3.0107674598693848";"Kontradiktorno
+
+Obrazloženje:
+Prema datom kontekstu, u govoru se navodi da je prosečna plata došla sa 329 na 462 evra, dok se u drugom izvoru tvrdi da će za tri godine prosečna plata biti preko 1.100 evra, što je blizu 1.150 evra, kolika je trenutna prosečna plata u Hrvatskoj. Međutim, u tekstu nema informacija da će prosečna plata dostići 1.500 evra, što je tvrdnja data u izjavi. Stoga, tvrdnja da bi bilo lepo da prosečna plata bude 1.500 evra je netačna i kontradiktorna u odnosu na informacije iz priloženog konteksta.";"1.7492451667785645"
