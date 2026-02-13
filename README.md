@@ -1,4 +1,4 @@
-Za lakse razumevanje celog sistema i teme projekta pogledajte prezentaciju: https://github.com/NatalijaBogdanovic/RAG-AI-ConsistencyChecker/blob/main/docs/presentation.pdf 
-i dokumentaciju: https://github.com/NatalijaBogdanovic/RAG-AI-ConsistencyChecker/blob/main/docs/Deep%20Check.pdf
+For an easy understanding of the whole system and the topic of the project, see the presentation: https://github.com/NatalijaBogdanovic/RAG-AI-ConsistencyChecker/blob/main/docs/presentation.pdf 
+and documentation: https://github.com/NatalijaBogdanovic/RAG-AI-ConsistencyChecker/blob/main/docs/Deep%20Check.pdf
  
 
